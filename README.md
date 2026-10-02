@@ -1,13 +1,10 @@
-# Barrage Control Room – AutoCAD Drawings
+Barrage Control Room – AutoCAD Drawings
 
-## Project Overview
-
+Project Overview
 This repository contains AutoCAD drawings and structural detailing prepared as part of a barrage control room project.
-
 The work involved preparation, modification, checking, and coordination of engineering drawings related to the control room and associated structural components.
 
-## Work Performed
-
+Work Performed
 - Prepared and modified AutoCAD drawings for the barrage control room.
 - Worked on plan, section, and structural detailing drawings.
 - Prepared and reviewed beam layouts and beam section details.
@@ -17,23 +14,20 @@ The work involved preparation, modification, checking, and coordination of engin
 - Coordinated drawing-related work with the project supervisor.
 - Prepared and checked drawing details for clarity and construction requirements.
 
-## Tools Used
-
+Tools Used
 - AutoCAD
 - Microsoft Excel
 - Engineering Drawing & Structural Detailing
 
-## Files Included
+Files Included
 
-### AutoCAD Files
+AutoCAD Files
 Contains the original `.DWG` drawing files prepared and modified during the project.
 Contains PDF versions of selected engineering drawings, where available.
 Contains selected preview images of the drawings and project work.
 
-## Project Relevance
-
+Project Relevance
 This project provided practical exposure to:
-
 - Structural drawing preparation
 - AutoCAD drafting
 - Structural detailing
@@ -41,8 +35,8 @@ This project provided practical exposure to:
 - Interpretation of engineering drawings
 - RCC structural components
 
-## Author
+Author
 
-**Himanshu Kumar**  
+Himanshu Kumar  
 B.Tech Civil Engineering  
 Delhi Technological University (DTU)
