@@ -27,11 +27,7 @@ The work involved preparation, modification, checking, and coordination of engin
 
 ### AutoCAD Files
 Contains the original `.DWG` drawing files prepared and modified during the project.
-
-### PDF Drawings
 Contains PDF versions of selected engineering drawings, where available.
-
-### Images
 Contains selected preview images of the drawings and project work.
 
 ## Project Relevance
